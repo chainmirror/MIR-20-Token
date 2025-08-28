@@ -1,7 +1,7 @@
 # MIR-20 Token
 
 <p align="center">
-  <img src="/assets/logo.png" alt="MIR-20 Logo" width="120" />
+  <img src="/logo.png" alt="MIR-20 Logo" width="120" />
 </p>
 
 **MIR-20** is a simple ERC20-like standard designed for the **Mirror Chain**.  
