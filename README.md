@@ -9,7 +9,7 @@ It is a minimal and clean token implementation in Python, focusing only on the e
 
 - Fixed total supply (1,000,000,000 tokens with 6 decimals)  
 - No `approve` / `allowance`  
-- No `mint` / `burn`  
+- No `mint` 
 - No `owner`  
 
 This makes MIR-20 a **lightweight standard** — ideal for learning, simulations, and off-chain prototyping of token logic for the Mirror Chain ecosystem.
